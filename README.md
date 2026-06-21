@@ -7,7 +7,7 @@
 > 💡 **Note for Reviewers:**
 > This project was successfully deployed as a live cloud application using **AWS Amplify** and an asynchronous serverless backend. 
 > 
-> **Original Deployment URL:** `[https://staging.dlgeznd717vj3.amplifyapp.com](https://staging.dlgeznd7l7vj3.amplifyapp.com/)`
+> **Original Deployment URL:** `https://staging.dlgeznd7l7vj3.amplifyapp.com/`
 > 
 > You can fully explore the production-ready code structure directly within this repository:
 
