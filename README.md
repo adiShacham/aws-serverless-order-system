@@ -8,6 +8,7 @@
 > This project was successfully deployed as a live cloud application using **AWS Amplify** and an asynchronous serverless backend. 
 > 
 > **Original Deployment URL:** `https://staging.dlgeznd7l7vj3.amplifyapp.com/`
+> 
 > Note: The live deployment is currently inactive to minimize cloud infrastructure and AWS operational costs. All source code, architecture diagrams, and backend configurations are fully available in this repository.
 
 ---
